@@ -1,0 +1,111 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.banner-container{
+background-color: #CBCACC;
+
+}
+.banner-colum{
+    background-color: #8E8C8E;
+
+}
+.navbar-container{
+    top: 0;
+    background-color: #272B38;
+    position: sticky;
+    z-index: 2;
+}
+.navbar-toggler:hover{
+    background: white;
+    color: #272B38;
+    
+}
+#navbarSupportedContent .navbar-nav .nav-item a{
+    color: white;
+}
+.about-container{
+    background-color: #01BBBD;
+
+}
+.education-container{
+  background-color: #EEEDEF; 
+
+}
+.bg-redtype{
+    background-color:#FB8580;
+
+}
+
+.bg-redtype:hover{
+    color: #EEEDEF;
+
+}
+.redtype-color{
+color:#FB8580;
+
+}
+.circle-edu{
+    background-color: #FB8580;
+    width: 150px;
+    height: 150;
+    border-radius: 50%;
+
+}
+.project-container{
+    background-color: #248FB6;
+}
+
+.form-container{
+    background-color:#474C5E;
+}
+
+.inner-form{
+    background-color: #585F77;
+}
+
+#form-input-1{
+    width: 40%;
+    height: auto;
+}
+#form-input-2{
+    width: 40%;
+    height: auto;
+}
+
+#form-input-1:hover{
+    width: 40%;
+    height: auto;
+    background: white;
+    color: black;
+}
+#form-input-2:hover{
+    width: 40%;
+    height: auto;
+    background: white;
+    color: black;
+}
+
+#1, #2, #3, #3{
+    margin: 2px;
+}
+ #text{
+     width: 81%;
+ }
+ .footer{
+     background-color: #207D9F;
+ }
+
+ .circle{
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     display:inline-block;
+     background-color: white;
+     font-size: 33px;
+     text-align: center;
+     color: #207D9F;
+ }
+ .circle:hover{
+     background-color: black;
+ }
